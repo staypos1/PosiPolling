@@ -1,0 +1,7 @@
+host LOCALHOST
+user EROWE
+database MGC
+dir x
+fromEmail ***
+toEmail ***
+emailPW ***
